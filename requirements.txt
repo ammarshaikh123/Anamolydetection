@@ -1,8 +1,5 @@
 numpy>=1.9.2
 pandas>=0.19
-os
-sys
-pickle
 voila
 voila-material
 ipywidgets
