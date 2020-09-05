@@ -4,3 +4,4 @@ voila
 voila-material
 ipywidgets
 plotly
+scikit-learn>=0.18
